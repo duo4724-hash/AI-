@@ -1,10 +1,5 @@
 # AI- 실제 블랙박스 환경을 위한 YOLOv11 기반 도로 위험물 탐지 고도화 및 전처리 한계 분석
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black">
-</div>
 
 ## 목차
 - [1. 프로젝트 개요 (Abstract)](#1-프로젝트-개요)
