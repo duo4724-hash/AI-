@@ -2,12 +2,12 @@
 
 
 ## 목차
-- [1. 프로젝트 개요 (Abstract)](#1-프로젝트-개요)
-- [2. 연구 배경 및 문제 정의 (Introduction)](#2-연구-배경-및-문제-정의)
-- [3. 데이터셋 및 환경 분석 (Data Analysis)](#3-데이터셋-및-환경-분석)
-- [4. 제안 방법론 및 코드 구현 (Methodology & Code)](#4-제안-방법론-및-코드-구현)
-- [5. 실험 결과 및 심층 분석 (Results & Analysis)](#5-실험-결과-및-심층-분석)
-- [6. 결론 및 향후 과제 (Conclusion & Future Work)](#6-결론-및-향후-과제)
+- [1. 프로젝트 개요 (Abstract)]
+- [2. 연구 배경 및 문제 정의 (Introduction)]
+- [3. 데이터셋 및 환경 분석 (Data Analysis)]
+- [4. 제안 방법론 및 코드 구현 (Methodology & Code)]
+- [5. 실험 결과 및 심층 분석 (Results & Analysis)]
+- [6. 결론 및 향후 과제 (Conclusion & Future Work)]
 
 ----
 
