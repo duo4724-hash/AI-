@@ -132,7 +132,7 @@ results = model.predict(
 ## 5. 실험 결과 및 심층 분석 (Results & Analysis)
 전처리 기법들의 실제 효용성을 검증하기 위해 Val 데이터를 기준으로 mAP(Mean Average Precision)를 측정하여 비교했습니다.
 
-<img width="744" height="948" alt="image" src="https://github.com/user-attachments/assets/f4df486f-2f62-476e-a053-5b449c7841a7" />
+<img width="372" height="474" alt="스크린샷 2026-06-16 154615" src="https://github.com/user-attachments/assets/92c823a5-7597-415d-b221-0044424722b7" />
 
 
 
