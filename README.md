@@ -58,7 +58,7 @@ AI 기술이 발전했음에도 현재 상용화된 블랙박스에서 포트홀
 
 데이터 환경의 차이를 알고리즘적으로 극복하기 위해 `Dataset ➔ Data Processing (ROI / CLAHE) ➔ Model (YOLOv11) ➔ Inference` 구조의 파이프라인을 설계했습니다. 
 
-<img width="742" height="336" alt="KakaoTalk_20260616_152939433" src="https://github.com/user-attachments/assets/e5cf32a0-1eb2-4d82-8db1-893626ea9076" />
+<img width="371" height="168" alt="KakaoTalk_20260616_152939433" src="https://github.com/user-attachments/assets/4688334d-cdd8-4c1d-9329-688083fdf76b" />
 
 
 ### 4.1. 관심 영역 추출 (ROI Crop)
