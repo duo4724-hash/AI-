@@ -85,3 +85,8 @@ def apply_roi_crop(image):
     roi_image = image[start_y:height, 0:width]
     
     return roi_image
+
+### 4.2. 적응형 히스토그램 평활화 (CLAHE)
+어두운 아스팔트와 포트홀의 명암(Contrast) 차이가 뚜렷하지 않아 탐지를 못하는 문제를 해결하기 위해 도입했습니다. 전체 이미지의 밝기를 한 번에 올리면 빛 번짐이 심해지므로, 이미지를 작은 그리드(8x8)로 나누어 국지적으로 대비를 강조하는 CLAHE 기법을 적용했습니다.
+
+
